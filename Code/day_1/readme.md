@@ -22,7 +22,7 @@ pandas包是基于numpy的一个数据分析工具。
 
 ## step5:Splitting the dataset into training sets and test sets( 数据集划分为训练集与测试集)
 
-将数据按8:2或分为训练集与测试集，使用sklearn.crossvalidation中的train_test_split()方法
+将数据按8:2或分为训练集与测试集，使用sklearn.model_selection中的train_test_split()方法(在之前的sklearn中是sklearn.crossvalidation中的train_test_split()方法)
 
 ## step6: Feature Scaling (特征缩放)
 
