@@ -21,3 +21,7 @@
 ## step4:可视化
 
 使用matplotlib.pyplot对结果进行可视化，同时将训练集和测试集做成散点图，观看预测效果
+
+<p align="center">
+    <img src="https://github.com/QiujieDong/Learn_ML_in_100_days/blob/master/Info_graphs/Day%202.jpg">
+</p>
